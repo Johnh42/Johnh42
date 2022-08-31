@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Johnh42
-- 👀 I’m interested in Automation, Docker, AI
-- 🌱 I’m currently learning Docker and PKI automation
+- 👀 I’m interested in Cloud Systems, Automation, Docker, AI
 - 📫 How to reach me https://www.linkedin.com/in/johnahollier/
 
 <!---
