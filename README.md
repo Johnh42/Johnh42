@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Johnh42
-- 👀 I’m interested in Cloud Systems, Automation, Docker, AI
+- 👀 I’m interested in Cloud Systems, Automation, Docker, AI, Terraform
 - 📫 How to reach me https://www.linkedin.com/in/johnahollier/
 
 <!---
